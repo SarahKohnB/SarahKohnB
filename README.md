@@ -32,7 +32,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 | Projeto               | Preview Online                        | Tecnologias Usadas        |
 |-----------------------|-------------------------------------|--------------------------|
-| **Todas As Atividades Feitas Aula** | [🔗 Ver online](https://github.com/SarahKohnB/Atividades) | HTML / CSS / JS |
+| **Todas as Atividades Feitas em Aula** | [🔗 Ver online](https://github.com/SarahKohnB/Atividades) | HTML / CSS / JS |
 | **Primeiro Site-Sobre Filmes** | [🔗 Ver online](https://github.com/SarahKohnB/Filmes) | HTML |
 | **Primeiro Site Publicado-Sobre Mim** | [🔗 Ver online](https://github.com/SarahKohnB/meuperfil-instagram)) | HTML / CSS |
 
