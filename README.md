@@ -1,10 +1,10 @@
-# 👋 Olá! Eu sou a Sarah
+# 💗 Olá! Eu sou a Sarah Kohn Baldoini 💗
 
-Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em [escreva seu interesse aqui: ex. Front-End, Back-End, Mobile, Banco de Dados, UX/UI, etc.].
+Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em Front-End utilizando programação HTML.
 
 ---
 
-## 🎯 Tecnologias que estou aprendendo
+## ❣️ Tecnologias que estou aprendendo
 
 ### Front-End
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -28,7 +28,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 ---
 
-## 🚀 Meus Projetos
+## 💯 Meus Projetos
 
 | Projeto               | Preview Online                        | Tecnologias Usadas        |
 |-----------------------|-------------------------------------|--------------------------|
@@ -40,17 +40,17 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 ---
 
-## 💡 Sobre Mim
+## 🤩 Sobre Mim
 
-- 🎓 Atualmente estudo no **[Nome da sua escola]**
-- 💻 Estou aprendendo **[tecnologias que está aprendendo]**
-- 🎯 Meu objetivo é **[coloque seu objetivo, exemplo: ser desenvolvedor Full Stack]**
-- 📚 Gosto de aprender sobre **[áreas de interesse]**
-- ✝ [Se quiser, coloque uma frase ou versículo que te inspire]
+- 💫 Atualmente estudo no **SESI-Guarulhos (ensino médio) e no SENAI Guarulhos - Hermenegildo Campos de Almeida (curso técnico de Desenvolvimento de Sistemas)**
+- 💌 Estou aprendendo **Python, Java, Java-Script, HTML, IoT, entre outros...**
+- ⚡ Meu objetivo é **Seguir na área de tecnologia, cursar uma faculdade de DEV e seguir carreira, prestando meu serviços de forma autônoma ou ingressando em alguma empresa de tecnologia**
+- 💘 Gosto de aprender sobre **Tecnologias novas como inteligência artificial, artes visuais, ciências humanas, aprender sobre diferentes países, entre outras coisas**
+- ✝ Insista, persista, mas nunca desista, um dia você conquista!
 
 ---
 
-## 📫 Como me encontrar
+## 🥀 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuusuario)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/seuusuario)  
