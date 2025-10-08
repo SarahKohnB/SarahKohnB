@@ -40,7 +40,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 ---
 
-## 🤩 Sobre Mim
+## 🍂 Sobre Mim
 
 - 💫 Atualmente estudo no **SESI-Guarulhos (ensino médio) e no SENAI Guarulhos - Hermenegildo Campos de Almeida (curso técnico de Desenvolvimento de Sistemas)**
 - 💌 Estou aprendendo **Python, Java, Java-Script, HTML, IoT, entre outros...**
