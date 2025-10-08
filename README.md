@@ -36,7 +36,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 | **Primeiro Site-Sobre Filmes** | [🔗 Ver online](https://github.com/SarahKohnB/Filmes) | HTML |
 | **Primeiro Site Publicado-Sobre Mim** | [🔗 Ver online](https://github.com/SarahKohnB/meuperfil-instagram)) | HTML / CSS |
 
-> 💡 Dica: Quando você publicar um projeto no GitHub Pages, coloque o link aqui!
+> 💋 Dica: Quando você publicar um projeto no GitHub Pages, coloque o link aqui!
 
 ---
 
